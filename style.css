@@ -1,16 +1,7 @@
 
 
 body{
-	background: white;
+
 	background-image:url(fondo.jpg);
-	color:white;
-	color:blue;
-	color:black;
-	color: green;
-	color: blue;
-	color: orange;
-	color:pink;
-	height: 80px;
-	width: 100px;
-	margin:0 5px;
+	font-size: 12px;
 }
