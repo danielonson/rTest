@@ -1,7 +1,7 @@
 
 
 body{
-	background: white;
+	background: blue;
 	background-image:url(fondo.jpg);
 	color:white;
 	color:blue;
@@ -13,4 +13,5 @@ body{
 	height: 80px;
 	width: 100px;
 	margin:0 5px;
+
 }
