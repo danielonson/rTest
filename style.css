@@ -1,6 +1,7 @@
 
 
 body{
+
 	background: blue;
 	background-image:url(fondo.jpg);
 	color:white;
@@ -13,5 +14,12 @@ body{
 	height: 80px;
 	width: 100px;
 	margin:0 5px;
+
+
+	font-size: 12px;
+	font-family: sans-serif;
+	font-variant: bold;
+	font-style: italic;
+	font-weight: 400;
 
 }
