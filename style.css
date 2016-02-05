@@ -12,9 +12,5 @@ body{
 	color:pink;
 	height: 80px;
 	width: 100px;
-<<<<<<< HEAD
-	margin: 5px;
-=======
-	margin:0;
->>>>>>> master
+	margin:0 5px;
 }
